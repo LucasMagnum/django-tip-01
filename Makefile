@@ -14,7 +14,7 @@ setup-tests:  ## Install python requirements
 	pip install -r requirements.txt
 
 tests: clean lint ## Run tests
-	python app/manage.py test -v2
+	cd app & python app/manage.py test products -v2
 
 lint:  ## Lint project
 	flake8
