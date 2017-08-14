@@ -1,7 +1,7 @@
 #DjangoTip 01
 ==================
 
-[![CircleCI](https://circleci.com/gh/LucasMagnum/django-tip-01.svg?style=shield)](https://circleci.com/gh/LucasMagnum/{project-slug})
+[![CircleCI](https://circleci.com/gh/LucasMagnum/django-tip-01.svg?style=shield)](https://circleci.com/gh/LucasMagnum/django-tip-01)
 
 
 This is just a sample app used in  [Playing with Querysets](https://medium.com/@lucasmagnum/djangotip-playing-with-querysets-ad2ae9fecf73).
